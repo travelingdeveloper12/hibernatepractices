@@ -1,2 +1,4 @@
 rootProject.name = 'travelingdeveloper'
+include 'com.amazon'
+include 'hibernate'
 
